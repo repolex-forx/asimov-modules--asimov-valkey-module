@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-valkey-module",
+  "versions": [
+    {
+      "commit": "381597e02648ab4fb97069d3c33968f7e1c21574",
+      "tag": "0.1.0",
+      "parsed_at": "2026-09-28T07:33:08.733972+00:00"
+    }
+  ]
+}
